@@ -1,16 +1,29 @@
-# snpachat_application
-
-A new Flutter project.
+## Snapchat Clone (Frontend)
 
 ## Getting Started
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-This project is a starting point for a Flutter application.
+## Prerequisites
+Make sure you have the following software installed:
+Flutter SDK: Installation Guide
 
-A few resources to get you started if this is your first Flutter project:
+## Install the dependencies:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+User Registration: Users can create a new account.
+User Login: Registered users can log in to their accounts.
+Camera Integration: Access the device camera to capture photos or record videos.
+Media Sharing: Users can share photos and videos with their friends.
+Stories: Users can view and post stories that disappear after a certain time.
+Filters and Effects: Apply filters, effects, and overlays to photos and videos.
+Chat: Real-time messaging with friends.
+Discover: Explore and discover new content from other users.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+To run the application on your local machine, follow these steps:
+Make sure you have an Android emulator or iOS simulator running.
+
+## In the project directory, run the following command:
+
+flutter run
