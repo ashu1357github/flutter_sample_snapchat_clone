@@ -25,5 +25,7 @@ To run the application on your local machine, follow these steps:
 Make sure you have an Android emulator or iOS simulator running.
 
 ## In the project directory, run the following command:
-
 flutter run
+
+## Contributing
+Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please submit an issue or pull request to the repository.
